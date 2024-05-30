@@ -11,6 +11,10 @@ If you discover a security vulnerability, we'd appreciate a non-public disclosur
 systemd developers can be contacted privately on the **[systemd-security@redhat.com](mailto:systemd-security@redhat.com) mailing list**.
 The disclosure will be coordinated with distributions.
 
+[issue tracker](systemd/systemd/issues)
+
+[issue tracker](./systemd/systemd/issues)
+
 (The [issue tracker](https://github.com/systemd/systemd/issues) and [systemd-devel mailing list](https://lists.freedesktop.org/mailman/listinfo/systemd-devel) are fully public.)
 
 Subscription to the systemd-security mailing list is open to **regular systemd contributors and people working in the security teams of various distributions**.
